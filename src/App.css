@@ -1,0 +1,9 @@
+.app{
+  border: 1px solid violet;
+
+  background:teal;
+  display: flex;
+  justify-content: center;
+
+}
+
